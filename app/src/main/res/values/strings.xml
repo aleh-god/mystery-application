@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mystery Application</string>
+    <string name="preference_file_key">mystery_pref_key</string>
+    <string name="fragment_message_reset_counter">Reset count?</string>
+    <string name="fragment_snackbar_action_text_reset">reset</string>
+    <string name="btn_reset_counter">RESET COUNTER</string>
+    <string name="fragment_text_message">Mystery Fragment</string>
+    <string name="fragment_message_main">Mystery event!!!</string>
+</resources>
